@@ -12,4 +12,4 @@
   (mongoDB를 사용하여 수정 할 계획): 저장 할 데이터가 복잡한 형태가 아니기에 mongoDB 사용이 편하다 판단) 
 }
 
-![image](https://user-images.githubusercontent.com/51200912/176943629-d81b4414-452d-47d8-8f53-d8c3368f1814.png)
+![image](https://user-images.githubusercontent.com/51200912/176947527-ca841739-d0a7-473a-9886-cb5debaaabd7.png)
